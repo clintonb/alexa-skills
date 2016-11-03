@@ -1,0 +1,27 @@
+EdXEnrollmentsIntent my enrollment info
+EdXEnrollmentsIntent what is my enrollment status
+EdXEnrollmentsIntent how many courses am I enrolled in
+EdXEnrollIntent enroll me
+EdXEnrollIntent sign me up
+EdXEnrollIntent register me for
+EdXUnenrollIntent leave
+EdXUnenrollIntent leave course
+EdXUnenrollIntent unenroll me from
+EdXUnenrollIntent remove me from
+EdXUnenrollIntent quit course
+EdXAboutIntent what is ed ex
+EdXAboutIntent who are ed ex
+EdXAboutIntent its mission
+EdXAboutIntent what is the mission of ed ex
+EdXListEnrollmentsIntent my current courses
+EdXListEnrollmentsIntent my current enrollments
+EdXListEnrollmentsIntent list my courses
+EdXListEnrollmentsIntent list my current courses
+EdXListEnrollmentsIntent list my current enrollments
+EdXListEnrollmentsIntent what are my courses
+EdXSearchIntent find courses on {Subject}
+EdXSearchIntent find courses about {Subject}
+EdXSearchIntent courses on {Subject}
+EdXSearchIntent courses about {Subject}
+EdXSearchIntent search for courses about {Subject}
+EdXSearchIntent search for courses on {Subject}

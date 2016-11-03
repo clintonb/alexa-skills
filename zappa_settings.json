@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "project_name": "edx-alexa",
+        "app_function": "enrollments.enrollments.app", 
+        "s3_bucket": "clintonb-edx-alexa",
+        "keep_warm": false,
+        "memory_size": 128,
+        "timeout_seconds": 10,
+        "remote_env_bucket": "clintonb-edx-alexa-config",
+        "remote_env_file": "dev-config.json"
+    }
+}
